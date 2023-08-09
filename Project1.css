@@ -1,0 +1,111 @@
+body{
+    background-color: rgba(255, 205, 158, 1);
+  }
+  h1{
+    color: #282828;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    width: 562px;
+  }
+
+  .mainbody{
+    padding-left: 100px;
+    padding-right: 50px;
+    padding-bottom: 99px;
+    width: 1070px;
+    display: flex;
+    color: #282828;
+    justify-content: column;
+    font-family: Inter;
+    font-style: normal;
+    height: 400px;
+  }
+
+  p{
+    color: #484848;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%;
+    display: flex;
+    width: 410px;
+    height: 100px;  
+  }
+
+h3{
+  color: #282828;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 160%;
+  width: 227px; 
+}
+
+#email {
+    border: 2px solid rgb(7, 7, 7);
+    padding-left: 20px;
+    border-radius: 5px;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+    justify-content: center;
+    height: 60px;  
+    width: 300px;
+}
+
+#button {
+    border: 4px solid #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 8px;
+    background-color: black;
+    color: whitesmoke;
+    height: 65px;  
+    width: 200px;
+}
+
+span{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 300%;
+    width: 344px;
+    height: 30px;
+    justify-content: center;
+    padding-left: 40px;
+}
+  .footer{
+    padding-left: 160px;
+    padding-right: 280px;
+    padding-top: 25px; 
+    height: 200px;
+    width: 1070px;
+    background-color: rgb(35, 34, 32);
+    color: whitesmoke;
+    display: flex;
+    justify-content:space-between;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    line-height: 160%;
+    font-weight: 400;
+  }
+  
+ 
+  .ul{
+    list-style: none;
+  }
